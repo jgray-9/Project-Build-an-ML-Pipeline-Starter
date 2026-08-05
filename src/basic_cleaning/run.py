@@ -54,7 +54,7 @@ def go(args):
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="A very basic data cleaning")
-  
+
     parser.add_argument(
         "--input_artifact", 
         type = str,
