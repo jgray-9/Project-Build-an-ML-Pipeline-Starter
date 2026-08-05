@@ -179,3 +179,7 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+## Links for Submission
+W&B: https://wandb.ai/joshgray-western-governors-university/nyc_airbnb?nw=nwuserjoshgray
+GitHub repo: https://github.com/jgray-9/Project-Build-an-ML-Pipeline-Starter
